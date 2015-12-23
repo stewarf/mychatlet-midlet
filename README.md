@@ -5,13 +5,6 @@ Proyecto Java para acceder al servidor mychatlet desde dispositivos móviles con
 Dispositivos soportado: MIDP 2.1.
 
 
-**Plugin necesario de NetBeans**
-
-
-- MIDP Visual Design
-
-
-
 **Pantallas de Captura**
 
 ![Formulario para conectarse al servidor y puerto](http://dl.dropbox.com/u/12074021/chatmidlet-java/chatmidlet-client-002.jpg)
